@@ -29,7 +29,7 @@ To run this project on your local machine, follow these steps:
 
 ### 1. Clone this repository:
 ```bash
-git clone https://github.com/vaishakb251/MyProjects.git
+git clone https://github.com/vaishakb251/MyProjects.git](https://github.com/vaishakb251/Cricket-Analytics-Batting-Performance-Analysis-Prediction
 ``` 
 
 ### 2. Install the required R packages:
