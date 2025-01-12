@@ -46,7 +46,7 @@ install.packages(c("readxl", "dplyr", "knitr", "DT", "corrplot", "ggplot2", "sf"
 
 ## Data Source
 
-The dataset used in this project is ICC Cricket Data from Kaggle ([Cricket Data](https://www.kaggle.com/datasets/mahendran1/icc-cricket). This data contains performance metrics of international batsmen, including:
+The dataset used in this project is ICC Cricket Data from Kaggle ([Cricket Data](https://www.kaggle.com/datasets/mahendran1/icc-cricket)). This data contains performance metrics of international batsmen, including:
 ```notepad  
     Matches played
     Innings
